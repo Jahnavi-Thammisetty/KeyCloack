@@ -1,0 +1,21 @@
+server:
+    port: 9090
+
+spring :
+    data :
+        mongodb:
+            uri: mongodb://localhost:27017/EmployeeDetails
+
+#
+keycloak:
+    realm: key1
+    auth-server-url: http://localhost:8080
+    resource: client1
+    public-client: true
+    bearer-only: true
+
+
+logging:
+    level:
+        org.springframework.security: DEBUG
+        org.keycloak: DEBUG

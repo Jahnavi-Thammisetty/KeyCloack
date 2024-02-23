@@ -1,0 +1,6 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ôºÚø8à∂∑Ç€1
+f
+java:S1192/"IDefine a constant instead of duplicating this literal "daughter" 4 times.(‘»ÎÅ8à∂∑Ç€1
+â
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ôºÚø8ï∂∑Ç€1

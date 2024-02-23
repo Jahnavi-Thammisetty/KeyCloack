@@ -1,0 +1,15 @@
+
+}
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "employee".(­ÊïÂ8˜íÑßÚ1
+c
+java:S2789"FEnsure this "Optional" could never be null and remove this null-check.(ğùÉ›8™íÑßÚ1
+c
+java:S2789'"FEnsure this "Optional" could never be null and remove this null-check.(ğùÉ›8™íÑßÚ1
+c
+java:S3655"FCall "opt.isPresent()" or "!opt.isEmpty()" before accessing the value.(­ÊïÂ8Üôñ€Û1
+c
+java:S3655)"FCall "opt.isPresent()" or "!opt.isEmpty()" before accessing the value.(­ÊïÂ8Üôñ€Û1
+`
+java:S2583'"CChange this condition so that it does not always evaluate to "true"(ğùÉ›8ßôñ€Û1
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ğùÉ›8ßôñ€Û1
